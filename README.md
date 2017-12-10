@@ -1,7 +1,7 @@
 # dm_pj2: Decision tree #
 Data mining (106) Project 2
 
-* \<PATH> in mushroom_exp.py need to be configured.
+* \<PATH> in 'mushroom_exp.py' need to be configured.
 
 Usage: python3 mushroom_exp.py
 
